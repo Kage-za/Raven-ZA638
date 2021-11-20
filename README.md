@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raven-ZA638
 - 👀 I’m interested in gym, Running, Climbing, Dj'ing and music production.
-- 🌱 I’m currently learning Java, kotlin and Pl-SQL.
+- 🌱 I’m currently learning Java, FrondEnd Development and Azure Developer.
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me at my github profile. 
 
