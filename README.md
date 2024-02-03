@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kage-za
-- 👀 I’m interested in gym, Running, Climbing, Dj'ing and music production.
-- 🌱 I’m currently learning Java, FrondEnd Development and Azure Developer.
+- 👀 I’m interested in Gym, Running, Climbing, and music production.
+- 🌱 I’m currently learning Java, BackEnd Development and Azure Developer.
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me at my github profile. 
+- 📫 How to reach me at my GitHub profile. 
 
 <!---
 Raven-ZA638/Raven-ZA638 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
