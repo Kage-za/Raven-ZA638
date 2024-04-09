@@ -2,7 +2,7 @@
 
 🎶 Music enthusiast 🎸, gym fanatic 💪, climbing enthusiast 🧗‍♂️, and a coder by day, dreamer by night. Oh, and I've got a need for speed 🏎️💨.
 
-- 🎵 Always jamming to the latest tunes
+- 🎵 Always raving to EDM, Techno, and Deep House
 - 💪 Striving for gains in the gym
 - 🧗‍♂️ Climbing to new heights
 - 🏎️ Adrenaline junkie on the race track
