@@ -7,8 +7,5 @@
 - 🧗‍♂️ Climbing to new heights
 - 🏎️ Adrenaline junkie on the race track
 - 💻 Coding and development enthusiast
-- 🔌 Tech aficionado, diving into the latest gadgets and tech trends
-
-Let's connect and share our passions! 🚀
-
+- 🔌 Tech aficionado, exploring the latest gadgets and tech trends
 
