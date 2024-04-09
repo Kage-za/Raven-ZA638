@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Kage-za
-- 👀 I’m interested in Gym, Running, Climbing, and music production.
-- 🌱 I’m currently learning Java, BackEnd Development and Azure Developer.
-- 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me at my GitHub profile. 
+# Hi there! 👋 I'm Kage
 
-<!---
-Raven-ZA638/Raven-ZA638 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎶 Music enthusiast 🎸, gym fanatic 💪, climbing enthusiast 🧗‍♂️, and a coder by day, dreamer by night. Oh, and I've got a need for speed 🏎️💨.
+
+- 🎵 Always jamming to the latest tunes
+- 💪 Striving for gains in the gym
+- 🧗‍♂️ Climbing to new heights
+- 🏎️ Adrenaline junkie on the race track
+- 💻 Coding and development enthusiast
+- 🔌 Tech aficionado, diving into the latest gadgets and tech trends
+
+Let's connect and share our passions! 🚀
+
+
