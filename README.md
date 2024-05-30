@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kage
 
-🎶 Music enthusiast 🎸, gym fanatic 💪, climbing enthusiast 🧗‍♂️, and a coder by day, dreamer by night. Oh, and I've got a need for speed 🏎️💨.
+🎶 Music enthusiast 🎸, gym fanatic 💪, climbing enthusiast 🧗‍♂️. Oh, and I've got a need for speed 🏎️💨.
 
 - 🎵 Always raving to EDM, Techno, and Deep House
 - 💪 Striving for gains in the gym
